@@ -1,0 +1,108 @@
+/* .bg-class {
+
+    background-color: rgb(28, 9, 93);
+
+} */
+
+/* This a body bg */
+body {
+
+    background-color: gra
+}
+
+h1, h2, p .pp {
+
+    color: yellow;
+}
+
+.border2 {
+
+    border: double 3px;
+    border-color: blueviolet;
+    border-radius: 1rem;
+    border-left-color: aqua;
+    border-right-color: rgb(255, 0, 38);
+    border-top-right-radius: 1rem;
+}
+
+.bg2 {
+
+    background-color: rgb(93, 37, 9);
+    margin: 1rem;
+    padding-bottom: 1rem;
+    color: wheat !important;
+    padding-left: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    box-shadow: rgb(15, 166, 50) 2px;
+    
+}
+
+#bg-id {
+
+    background-color: rgb(28, 9, 93);
+}
+
+#text {
+
+    color: white;
+    padding-left: 1rem;
+    padding-top: 0.5rem;
+}
+
+#bg-id2{
+
+background-color: rgb(19, 171, 19);
+
+}
+
+#bg-id{
+
+background-color: rgb(84, 84, 250);
+
+}
+
+#bg-id3{
+
+background-color: rgb(243, 125, 41);
+
+}
+
+.bg-class{
+
+ background-color: rgb(9, 23, 37);
+    
+}
+
+.bg-class02{
+
+background-color: blue;
+
+}
+
+.bg-class03{
+
+background-color: rgb(6, 205, 208);
+
+}
+
+#bg-id4{
+
+background-color: blue;
+
+}
+
+#bg-id04{
+
+background-color: rgb(18, 53, 209);
+
+}
+
+#bg-id05{
+
+background-color: ghostwhite;
+
+}
+
+
+
